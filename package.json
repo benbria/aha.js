@@ -1,0 +1,16 @@
+{
+  "name": "aha",
+  "version": "0.1.0",
+  "description": "aha (ansi HTML adapter) in JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benbria/aha.js"
+  },
+  "author": "Geoffry Song <goffrie@gmail.com>",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/benbria/aha.js/issues"
+  },
+  "homepage": "https://github.com/benbria/aha.js"
+}
