@@ -186,7 +186,7 @@ function aha(input, options) {
     // read input one byte at a time (interpreted as an ASCII character code)
     while (!eof()) {
         c = getNextChar();
-        if (c === '\033') {
+        if (c === "\x1b") {
             // save old values
             ofc = fc;
             obc = bc;
